@@ -1,0 +1,56 @@
+Maksym Kovalenko
+Applied Mathematics student specializing in algorithms, computational geometry, and data visualization.
+
+
+---
+
+# **3. What to Upload to GitHub (Checklist)**
+
+### **Required**
+✔ `petunin.cpp` (your C++ code)  
+✔ `visualize.py`  
+✔ `input_data.txt` (your example input)  
+✔ `output_data.txt` (optional — demonstration)  
+✔ `README.md`  
+✔ `.gitignore` (optional but recommended)
+
+### **Optional but Recommended**
+✔ `CMakeLists.txt`  
+✔ `/screenshots` folder with rendered images  
+✔ `LICENSE` (MIT recommended)
+
+---
+
+# **4. Recommended Repository Structure**
+
+petunin-ellipses/
+│
+├─ src/
+│ └─ petunin.cpp
+│
+├─ python/
+│ └─ visualize.py
+│
+├─ data/
+│ ├─ input_data.txt
+│ └─ example_output.txt
+│
+├─ assets/
+│ └─ screenshot.png # add plot images here
+│
+├─ README.md
+├─ .gitignore
+└─ LICENSE
+
+
+---
+
+# **5. If you want, I can also create:**
+
+- a **CMakeLists.txt** for your C++ project  
+- a professional **.gitignore**  
+- pre-generated **screenshots** (if you upload output_data.txt)  
+- a short description for your CV referencing this project  
+- a GitHub tagline and repo description  
+
+Just tell me what you want next.
